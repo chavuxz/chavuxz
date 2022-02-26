@@ -3,11 +3,17 @@
 
    <img align="center" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
    
- ```
-- 🤞 Hi, I’m Chavuxz
-- 😁 I’m interested in So Many Stuffs😋😒...
-- 😎 I’m currently Learning Forensic Science and Data Analytics 😅😂...
-```
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+
+- 🔭 I’m currently a Student. Still studying😥.
+- 🌱 I’m currently learning Cyber Forensic.
+- 👯 I’m just a noob.
+- 🤔 I’m looking for something.
+- 💬 Ask me about anything.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I 💖 to code 24x7.
+- 🎢 Profile Visitors Count:  
+![](https://visitor-badge.glitch.me/badge?page_id=chavuxz.chavuxz)
    
  </a> <br> 
 
@@ -28,6 +34,12 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chavuxz&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chavuxz&theme=highcontrast)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 
+   <div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
    
 <p align="center">
   <a href="https://github.com/chavuxz"><img alt="Github" title="chavuxz Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
