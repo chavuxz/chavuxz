@@ -1,19 +1,29 @@
+   <img align="center" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+   
+   
 <h2 align="center"> Hi 👋 , It'Z me  Chavuxz <br/></h2> 
 <h3 align="center">19 വർഷത്തെ കാത്തിരിപ്പാണ് ⏳ | ꜱᴛɪʟʟ ꜱᴛᴜᴅʏɪɴɢ 🙇🏻 | ഒരു കാര്യവുമില്ല 😒 | 🧑🏻‍💻 ᴅᴀᴛᴀ ᴀɴᴀʟʏᴛɪᴄꜱ ᴡɪᴛʜ 🕵🏼‍♂️ꜰᴏʀᴇɴꜱɪᴄ ꜱᴄɪᴇɴᴄᴇ | Nothing More - ɪɴꜱᴛᴀɢʀᴀᴍ<br> <br>
 
-   <img align="center" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
    
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+<img align="center" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently a Student. Still studying😥.
-- 🌱 I’m currently learning Cyber Forensic.
-- 👯 I’m just a noob.
-- 🤔 I’m looking for something.
-- 💬 Ask me about anything.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=chavuxz.chavuxz)
+   
+   
+ 🔭 I’m currently a Student. Still studying😥.
+   
+ 🌱 I’m currently learning Cyber Forensic.
+   
+ 👯 I’m just a noob.
+   
+ 🤔 I’m looking for something.
+   
+ 💬 Ask me about anything.
+   
+ 😄 Pronouns: He/Him
+   
+ ⚡ Fun fact: I 💖 to code 24x7.
+   
+ 🎢 ![Profile views](https://gpvc.arturio.dev/chavuxz)  
    
  </a> <br> 
 
@@ -57,8 +67,5 @@
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
+
 -----
