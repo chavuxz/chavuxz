@@ -1,5 +1,4 @@
-   <img align="center" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-   
+   <a href="right"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
    
 <h2 align="center"> Hi 👋 , It'Z me  Chavuxz <br/></h2> 
 <h3 align="center">19 വർഷത്തെ കാത്തിരിപ്പാണ് ⏳ | ꜱᴛɪʟʟ ꜱᴛᴜᴅʏɪɴɢ 🙇🏻 | ഒരു കാര്യവുമില്ല 😒 | 🧑🏻‍💻 ᴅᴀᴛᴀ ᴀɴᴀʟʏᴛɪᴄꜱ ᴡɪᴛʜ 🕵🏼‍♂️ꜰᴏʀᴇɴꜱɪᴄ ꜱᴄɪᴇɴᴄᴇ | Nothing More - ɪɴꜱᴛᴀɢʀᴀᴍ<br> <br>
